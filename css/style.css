@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+
+.mom {
+    width: 450px;
+    height: 697px;
+    margin-left: 495px;
+    margin-right: 495px;
+    margin-top: 102px;
+    background-color:white;
+    border-radius: 20px;
+}
+
+.mom-photo {
+    width: 450px;
+    height: 220px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'red hat display';
+    font-weight: 900;
+    font-size: 28px;
+    margin: 45px 48px 17px 48px;
+}
+
+.pharagraph {
+    align-items: center;
+    font-family: 'red hat display';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    width: 354px;
+    height: 78px;
+    margin: 17px 48px 20px 48px;
+    color: #717FA6;
+}
+
+.child {
+    display: flex;
+    align-items: center;
+    margin: 20px auto 0px;
+    width: 354px;
+    height: 98px;
+    background-color: #F7F9FF;
+    
+}
+
+.card {
+    display: block;
+    background-color: #382AE1;
+    color: white;
+    border-radius: 11px;
+    margin: 32px auto;
+    width: 354px;
+    height: 50px;
+    box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+    font-family: 'red hat display';
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 18.85px;
+    
+}
+
+.nomoney {
+    font-family: 'red hat display';
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 19.85px;
+    color: #717FA6;
+    margin: 32px 177px 48px 177px;
+}
+
+.icon {
+    margin-left: 24px;
+    width: 48px;
+    height: 48px;
+}
+
+.plan-b {
+    margin-left: 20px;
+}
+
+.change {
+    margin-left: 94px;
+    font-family: 'red hat display';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #382AE1;
+}
+
+.plan {
+    font-family: 'red hat display';
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 21.17px;
+}
+
+.dollar {
+    font-family: 'red hat display';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21.17px;
+}
