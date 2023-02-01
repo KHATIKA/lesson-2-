@@ -4,10 +4,8 @@
 .mom {
     width: 450px;
     height: 697px;
-    margin-left: 495px;
-    margin-right: 495px;
-    margin-top: 102px;
-    background-color:white;
+    margin: 102px auto;
+    background-color: white;
     border-radius: 20px;
 }
 
